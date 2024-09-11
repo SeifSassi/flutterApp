@@ -1,5 +1,3 @@
-import 'dart:js_interop_unsafe';
-
 import 'package:flutter/material.dart';
 import 'package:my_first_app/models/cart.dart';
 import 'package:my_first_app/models/shoe.dart';

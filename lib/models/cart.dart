@@ -17,7 +17,7 @@ class Cart extends ChangeNotifier {
     Shoe(
         name: 'Air Max',
         price: '250',
-        imagePath: 'lib/images/AirMax.jpg',
+        imagePath: 'lib/images/zom.jpg',
         description: 'Revolutionary comfort and style'),
     Shoe(
         name: 'Nike TN',
